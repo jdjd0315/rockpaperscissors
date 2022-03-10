@@ -1,2 +1,1 @@
-# rockpaperscissors
-Rock, Paper, Scissors: You vs the Computer
+///This project is Rock/Paper/Scissors.  It helps me to better understand functions and their use in JavaScript.
